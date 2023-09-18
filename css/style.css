@@ -1,0 +1,46 @@
+/* CSS Reset */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+header {
+        background-color: red
+        
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+nav {
+    background-color: white
+
+}
+
+body {
+    background-color: slategrey;
+
+}
+
+h1 {
+    color:black
+}
+
+h2 {
+    color: black
+}
+
+p {
+    color: black
+}
+
+a:hover{
+    background: lightgray;
+    transition: .5s;
+}

@@ -21,7 +21,23 @@ h1 {
 
 nav {
     background-color: white
+}
 
+nav {
+    padding: 2%;
+    margin: 2%;
+}
+
+ul {
+    display:flex
+}
+
+ul {
+    justify-content: center;
+}
+
+li {
+    margin-right: 3em;
 }
 
 body {

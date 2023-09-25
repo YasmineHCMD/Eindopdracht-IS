@@ -36,15 +36,12 @@ nav {
 }
 
 ul {
-    display:flex
-}
-
-ul {
+    display:flex;
     justify-content: center;
 }
 
 li {
-    margin-right: 3em;
+    margin-right: 5em;
 }
 
 body {
@@ -53,18 +50,28 @@ body {
 }
 
 h1 {
-    color:black
+    color:black;
 }
 
 h2 {
-    color: black
+    color: black;
 }
 
 p {
-    color: black
+    color: black;
 }
 
-a:hover{
-    background: lightgray;
-    transition: .5s;
+a{
+    background-color: lightgrey;
+    font-size: 2em;
+    border-radius: 2px;
+    text-decoration: none;
+    display: inline-block;
 }
+
+a.hover{
+    transform: translate(50px, 100px);
+}
+
+
+

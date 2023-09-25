@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    border: 5px solid white;
+    margin: 1em;
+    width: 50%;
+    height: auto;
+}
+
+img.desc {
+    padding: 5em;
+    text-align: center;
+}

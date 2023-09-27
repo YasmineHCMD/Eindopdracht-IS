@@ -9,7 +9,7 @@
 }
 
 header {
-        background-color: lightsteelblue;
+        background-color: cadetblue;
         
 }
 
@@ -28,13 +28,13 @@ img {
 }
 
 nav {
-    background-color: steelblue;
-    border-radius: 3px;
+    background-color: royalblue;
+    border-radius: 5px;
 }
 
 nav {
-    padding: 2%;
-    margin: 2%;
+    padding: 0.7em;
+    margin: 0.7em;
 }
 
 ul {
@@ -47,12 +47,11 @@ li {
 }
 
 body {
-    background-color: slategrey;
-
+    background-color: cadetblue;
 }
 
 h1 {
-    color:black;
+    color: white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -73,13 +72,19 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 
+h5 {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 p {
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-a{
+a:link{
     background-color: lightsteelblue;
+    padding: 0.5em;
     font-size: 2em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border-radius: 2px;

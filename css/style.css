@@ -23,7 +23,8 @@ h1 {
 img {
     display:flex;
     justify-content: center;
-    border: 1em;
+    border: 0.5em solid white;
+    height: 500px;
 }
 
 nav {
@@ -78,4 +79,18 @@ a:link{
 
 a:hover{
     transform: translate(3px, 5px);
+}
+
+.gallerij{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: stretch;
+    gap: 1em 2em;
+    height:300px;
+} 
+
+.banner {
+    display:flex;
+    align-content:center;
 }

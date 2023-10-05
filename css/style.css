@@ -13,9 +13,14 @@ header {
 }
 
 img {
-    display:flex;
+    display: flex;
     justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
     border: 0.5em solid white;
+    margin: auto;
     height: 500px;
 }
 
@@ -49,6 +54,7 @@ h1 {
 
 h2 {
     color: black;
+    text-align: left;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -72,11 +78,11 @@ a:hover{
     transform: translate(3px, 5px);
 }
 
-.gallerij{
+.fotoreeks{
+    text-align: left;
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
-    align-content: stretch;
-    gap: 1em 2em;
-    height:300px;
-} 
+    row-gap: 2em;
+    column-gap: 0.5em;
+    font-size: large;
+}

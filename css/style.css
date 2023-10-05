@@ -26,6 +26,7 @@ img {
 
 nav {
     background-color: royalblue;
+    color: black;
     border-radius: 5px;
     padding: 0.7em;
     margin: 0.7em;
@@ -46,7 +47,7 @@ body {
 }
 
 h1 {
-    color: white;
+    color: hotpink;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 3em;
     text-align: center;
@@ -84,5 +85,9 @@ a:hover{
     flex-wrap: wrap;
     row-gap: 2em;
     column-gap: 0.5em;
-    font-size: large;
+}
+
+article{
+    margin: auto;
+    row-gap: 1em;
 }

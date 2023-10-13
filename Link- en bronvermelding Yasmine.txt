@@ -1,0 +1,18 @@
+Naam: Yasmine Hennik
+Studentnummer: 500932421
+Klas: P07 Oker
+Schooljaar: 2023-2024
+
+LINK NAAR LIVE WEBSITE
+https://yasminehcmd.github.io/Eindopdracht-IS/
+
+BRONVERMELDING
+Websites:
+1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2. https://w3schools.com
+3. https://nl.wikipedia.org/wiki/Florida_(staat)
+4. https://www.floridavoorbeginners.nl 
+5. https://www.polarsteps.com/FamilieH
+
+Foto's: Flag-map_of_Florida.svg.png
+	istockphoto-1179680485-170667a.jpg 
